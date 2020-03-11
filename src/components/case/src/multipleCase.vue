@@ -68,6 +68,8 @@ import mainCase from "./case.vue";
        z-index: 1004;
        top: 15%;
        right: 3%;
+
+       
        height: 34px;
        width: 50px;
        line-height: 34px;
